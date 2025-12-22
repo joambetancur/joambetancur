@@ -35,8 +35,6 @@ Me motiva aprender nuevas tecnologías, construir proyectos reales y mejorar con
 ---
 
 ## 🚀 Proyectos Destacados
-💡 Todos los proyectos incluyen diseño responsive.
-
 📌 Algunos de los proyectos que reflejan mi trabajo:
 
 - 🎬 **Movie App** consumiendo una API externa
@@ -52,6 +50,7 @@ Me motiva aprender nuevas tecnologías, construir proyectos reales y mejorar con
   - 💻 Repo: https://github.com/joambetancur/Dictionary
 
 *(Todos enfocados en frontend, lógica en JavaScript y buenas prácticas)*
+💡 Todos los proyectos incluyen diseño responsive.
 
 ---
 
