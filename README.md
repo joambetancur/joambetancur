@@ -37,9 +37,17 @@ Me motiva aprender nuevas tecnologías, construir proyectos reales y mejorar con
 ## 🚀 Proyectos Destacados
 📌 Algunos de los proyectos que reflejan mi trabajo:
 
-- 🎬 **Página web de películas** consumiendo una API externa  
-- 🌦️ **Aplicación del clima** con datos en tiempo real mediante API  
-- 📖 **Dictionary App** usando una API de diccionario  
+- 🎬 **Página web de películas** consumiendo una API externa
+  - 🌐 Demo: https://responsive-movie-web.vercel.app/ 
+  - 💻 Repo: https://github.com/joambetancur/responsive-movie-web-API
+    
+- 🌦️ **Aplicación del clima** con datos en tiempo real mediante API
+  - 🌐 Demo: https://weather-app-beta-one-34.vercel.app/
+  - 💻 Repo: https://github.com/joambetancur/Weather-App
+    
+- 📖 **Dictionary App** usando una API de diccionario
+  - 🌐 Demo: https://dictionary-delta-nine.vercel.app/
+  - 💻 Repo: https://github.com/joambetancur/Dictionary
 
 *(Todos enfocados en frontend, lógica en JavaScript y buenas prácticas)*
 
