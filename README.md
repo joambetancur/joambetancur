@@ -8,7 +8,7 @@
 ---
 
 ## 🧠 Sobre mí
-Soy estudiante universitario con un fuerte interés en el **desarrollo frontend**, enfocado en crear interfaces web modernas, funcionales y bien estructuradas.  
+Soy estudiante universitario con un fuerte interés en el **desarrollo frontend**, enfocado en crear interfaces web modernas, funcionales y orientadas a una buena experiencia de usuario (UX).
 Me encuentro en constante aprendizaje y mi objetivo principal es **conseguir mi primer empleo como desarrollador frontend**.
 
 Me motiva aprender nuevas tecnologías, construir proyectos reales y mejorar continuamente mis habilidades.
@@ -35,13 +35,15 @@ Me motiva aprender nuevas tecnologías, construir proyectos reales y mejorar con
 ---
 
 ## 🚀 Proyectos Destacados
+💡 Todos los proyectos incluyen diseño responsive.
+
 📌 Algunos de los proyectos que reflejan mi trabajo:
 
-- 🎬 **Página web de películas** consumiendo una API externa
+- 🎬 **Movie App** consumiendo una API externa
   - 🌐 Demo: https://responsive-movie-web.vercel.app/ 
   - 💻 Repo: https://github.com/joambetancur/responsive-movie-web-API
     
-- 🌦️ **Aplicación del clima** con datos en tiempo real mediante API
+- 🌦️ **Weather App** con datos en tiempo real mediante API
   - 🌐 Demo: https://weather-app-beta-one-34.vercel.app/
   - 💻 Repo: https://github.com/joambetancur/Weather-App
     
