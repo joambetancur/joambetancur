@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Joam Betancur
+# 👋 ¡Hola! Soy Joan Betancur
 
 🎓 Estudiante de **Ingeniería de Telecomunicaciones**  
 💻 Enfocado en **Frontend Development**
