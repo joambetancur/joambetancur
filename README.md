@@ -3,15 +3,15 @@
 🎓 Estudiante de **Ingeniería de Telecomunicaciones**  
 💻 Enfocado en **Frontend Development**
 
-> 🚀 *De estudiante a desarrollador frontend, un proyecto a la vez.*
+> 🚀 *De estudiante a desarrollador frontend, construyendo proyectos reales con tecnologías web modernas.*
 
 ---
 
 ## 🧠 Sobre mí
-Soy estudiante universitario con un fuerte interés en el **desarrollo frontend**, enfocado en crear interfaces web modernas, funcionales y orientadas a una buena experiencia de usuario (UX).
-Me encuentro en constante aprendizaje y mi objetivo principal es **conseguir mi primer empleo como desarrollador frontend**.
 
-Me motiva aprender nuevas tecnologías, construir proyectos reales y mejorar continuamente mis habilidades.
+Soy estudiante de Ingeniería de Telecomunicaciones con un fuerte enfoque en desarrollo frontend. Me especializo en crear interfaces web modernas, funcionales y responsive, con especial atención a la experiencia de usuario (UX) y a la calidad del código.
+
+He desarrollado proyectos reales utilizando JavaScript, consumo de APIs, manejo de errores y despliegue en producción. Mi objetivo es conseguir mi primer empleo como Frontend Developer Junior, seguir aprendiendo y crecer profesionalmente en equipos de desarrollo.
 
 ---
 
