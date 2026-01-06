@@ -36,7 +36,7 @@ He desarrollado proyectos reales utilizando JavaScript, consumo de APIs, manejo 
 ---
 
 ## 🚀 Proyectos Destacados
-📌 Algunos de los proyectos que reflejan mi trabajo:
+📌 Algunos de los proyectos que reflejan mi dedicacion:
 
 - 🎬 **Movie App** consumiendo una API externa
   - 🌐 Demo: https://responsive-movie-web.vercel.app/ 
