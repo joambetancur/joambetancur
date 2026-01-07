@@ -41,6 +41,10 @@ He desarrollado proyectos reales utilizando JavaScript, consumo de APIs, manejo 
 - 🎬 **Movie App** consumiendo una API externa
   - 🌐 Demo: https://responsive-movie-web.vercel.app/ 
   - 💻 Repo: https://github.com/joambetancur/responsive-movie-web-API
+ 
+- 🌦️ Weather App (React) con datos en tiempo real mediante API
+   - 🌐 Demo: https://weather-app-wbtc.vercel.app/
+   - 💻 Repo: https://github.com/joambetancur/Weather-App-React
     
 - 🌦️ **Weather App** con datos en tiempo real mediante API
   - 🌐 Demo: https://weather-app-beta-one-34.vercel.app/
