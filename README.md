@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Soy estudiante de Ingeniería de Telecomunicaciones con enfoque en Frontend.  
 Me especializo en crear **interfaces modernas, funcionales y responsivas**, integrando **APIs, manejo de errores y despliegue en producción**.  
@@ -15,7 +15,7 @@ Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme c
 
 ---
 
-## 🛠️ Tecnologías
+## Tecnologías
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
@@ -25,7 +25,7 @@ Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme c
 
 ---
 
-## 🧰 Herramientas
+## Herramientas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
@@ -36,7 +36,7 @@ Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme c
 ---
 
 ## 🚀 Proyectos Destacados
-📌 Algunos de los proyectos que reflejan mi dedicacion:
+ Algunos de los proyectos que reflejan mi dedicacion:
 
 - 🎬 **Movie App** consumiendo una API externa
   - 🌐 Demo: https://responsive-movie-web.vercel.app/ 
