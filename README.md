@@ -59,7 +59,7 @@ Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme c
   - 💻 Repo: https://github.com/joambetancur/Dictionary
   - Funcionalidad: Busqueda de palabras, definiciones, fonetica, categorias gramaticales y reproducciones de audio.
 
-*(Todos enfocados en frontend, y buenas prácticas)*
+*(Todos enfocados en frontend, y buenas prácticas)* <br>
 💡 Todos los proyectos incluyen diseño responsive.
 
 ---
