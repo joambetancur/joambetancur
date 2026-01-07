@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Joan Betancur
 
 🎓 Estudiante de **Ingeniería de Telecomunicaciones**  
-💻 Enfocado en **Frontend Development**
+💻 Desarrollador Frontend Junior | Construyendo proyectos web modernos y funcionales
 
 > 🚀 *De estudiante a desarrollador frontend, construyendo proyectos reales con tecnologías web modernas.*
 
@@ -9,9 +9,9 @@
 
 ## 🧠 Sobre mí
 
-Soy estudiante de Ingeniería de Telecomunicaciones con un fuerte enfoque en desarrollo frontend. Me especializo en crear interfaces web modernas, funcionales y responsive, con especial atención a la experiencia de usuario (UX) y a la calidad del código.
-
-He desarrollado proyectos reales utilizando JavaScript, consumo de APIs, manejo de errores y despliegue en producción. Mi objetivo es conseguir mi primer empleo como Frontend Developer Junior, seguir aprendiendo y crecer profesionalmente en equipos de desarrollo.
+Soy estudiante de Ingeniería de Telecomunicaciones con enfoque en Frontend.  
+Me especializo en crear **interfaces modernas, funcionales y responsivas**, integrando **APIs, manejo de errores y despliegue en producción**.  
+Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme como Frontend Developer.
 
 ---
 
@@ -41,10 +41,14 @@ He desarrollado proyectos reales utilizando JavaScript, consumo de APIs, manejo 
 - 🎬 **Movie App** consumiendo una API externa
   - 🌐 Demo: https://responsive-movie-web.vercel.app/ 
   - 💻 Repo: https://github.com/joambetancur/responsive-movie-web-API
+  - Funcionalidad: Buscador de peliculas por titulo, genero y año usando API **TMDB**
+  - Diseño responsive y UI limpia.
  
-- 🌦️ Weather App (React) con datos en tiempo real mediante API
+- 🌦️ Weather App (React)
    - 🌐 Demo: https://weather-app-wbtc.vercel.app/
    - 💻 Repo: https://github.com/joambetancur/Weather-App-React
+   - Funcionalidad: Datos en tiempo real, cambio de tema dia/noche, temperatura, UV index, sensacion termica, etc.
+   - Integracion de API y manejo de errores.
     
 - 🌦️ **Weather App** con datos en tiempo real mediante API
   - 🌐 Demo: https://weather-app-beta-one-34.vercel.app/
@@ -53,6 +57,7 @@ He desarrollado proyectos reales utilizando JavaScript, consumo de APIs, manejo 
 - 📖 **Dictionary App** usando una API de diccionario
   - 🌐 Demo: https://dictionary-delta-nine.vercel.app/
   - 💻 Repo: https://github.com/joambetancur/Dictionary
+  - Funcionalidad: Busqueda de palabras, definiciones, fonetica, categorias gramaticales y reproducciones de audio.
 
 *(Todos enfocados en frontend, lógica en JavaScript y buenas prácticas)*
 💡 Todos los proyectos incluyen diseño responsive.
