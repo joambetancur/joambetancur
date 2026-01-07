@@ -3,7 +3,7 @@
 🎓 Estudiante de **Ingeniería de Telecomunicaciones**  
 💻 Desarrollador Frontend Junior | Construyendo proyectos web modernos y funcionales
 
-> 🚀 *De estudiante a desarrollador frontend, construyendo proyectos reales con tecnologías web modernas.*
+>  *De estudiante a desarrollador frontend, construyendo proyectos reales con tecnologías web modernas.*
 
 ---
 
@@ -35,7 +35,7 @@ Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme c
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos Destacados
  Algunos de los proyectos que reflejan mi dedicacion:
 
 - 🎬 **Movie App** consumiendo una API externa
@@ -73,10 +73,10 @@ Mi objetivo es crecer profesionalmente en equipos de desarrollo y consolidarme c
 
 ---
 
-## 📫 Contacto
+## Contacto
 📧 Email: **joambetancur@gmail.com**
 
 ---
 
-✨ Gracias por visitar mi perfil.  
+ Gracias por visitar mi perfil.  
 Siempre abierto a aprender, mejorar y colaborar.
