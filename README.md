@@ -29,6 +29,16 @@ Escribo sobre filosofía política aplicada (concepto propio: *Ecología del Est
 
 ---
 
+## Escritura y pensamiento crítico
+
+- **"Colombia: La Patria Boba Perpetua"** · Ensayo sobre desorden como lenguaje del sistema · *Revista Universidad de Antioquia* (en revisión)
+- **"La ecología del estancamiento"** · Concepto propio sobre sistemas que se benefician del desorden · *En preparación para Anfibia/Pléyade*
+- Serie de ensayos: *Lenguaje del estancamiento* · *Memoria del estancamiento*
+
+> *"El protocolo es política congelada en código."*
+
+---
+
 ## Contacto
 
 📫 joan.betancur@udea.edu.co  
