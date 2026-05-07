@@ -24,7 +24,7 @@ Escribo sobre filosofía política aplicada (concepto propio: *Ecología del Est
 
 ## Certificaciones
 
-- **Fortinet Network Security Expert (NSE) 1, 2, 3** · En curso
+- **Fortinet Certified Fundamentals** · En curso
 - **CCNA: Introduction to Networks** · Próximamente
 
 ---
