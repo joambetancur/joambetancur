@@ -41,7 +41,7 @@ Escribo sobre filosofía política aplicada (concepto propio: *Ecología del Est
 
 ## Contacto
 
-📫 joan.betancur@udea.edu.co  
+📫 joan.betancur1@udea.edu.co  
 
 ---
 
