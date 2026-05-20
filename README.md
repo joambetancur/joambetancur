@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="mailto:joan.betancur1@udea.edu.co"><img src="https://img.shields.io/badge/Email-joan.betancur1%40udea.edu.co-blue?style=flat-square&logo=gmail" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Joan_Betancur-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
