@@ -7,7 +7,7 @@
 
 ## Sobre mí
 
-Soy estudiante de Ingeniería de Telecomunicaciones. Mi interés es la **seguridad de redes**, el **análisis del espectro** y la **arquitectura de protocolos**. 
+Soy estudiante de Ingeniería de Telecomunicaciones. Mi interés es la **seguridad de redes**, las **redes**, la **nube** y el manejo de **linux**
 
 Escribo sobre filosofía política aplicada (concepto propio: *Ecología del Estancamiento*), lo que me ha dado una visión estratégica sobre cómo las tecnologías de comunicación moldean el poder y la autonomía ciudadana.
 
@@ -24,8 +24,8 @@ Escribo sobre filosofía política aplicada (concepto propio: *Ecología del Est
 
 ## Certificaciones
 
-- **Fortinet Certified Fundamentals** · En curso
-- **CCNA: Introduction to Networks** · Próximamente
+- **Fortinet Certified Fundamentals** - Terminado
+- **Fortinet Certified Associate** - Terminado
 
 ---
 
