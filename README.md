@@ -1,48 +1,46 @@
-# Joan Betancur
-📡 Telecomunicaciones | 🔒 Ciberseguridad | ✍️ Filosofía política aplicada
+# ¡Hola! Soy Joan Betancur 👋
 
-[Universidad de Antioquia] · [Medellín, Colombia]
+<p align="center">
+  <strong>📡 Telecomunicaciones | 🔒 Ciberseguridad | 🐧 Linux & Cloud | ✍️ Filosofía Política Aplicada</strong>
+</p>
 
----
-
-## Sobre mí
-
-Soy estudiante de Ingeniería de Telecomunicaciones. Mi interés es la **seguridad de redes**, las **redes**, la **nube** y el manejo de **linux**
-
-Escribo sobre filosofía política aplicada (concepto propio: *Ecología del Estancamiento*), lo que me ha dado una visión estratégica sobre cómo las tecnologías de comunicación moldean el poder y la autonomía ciudadana.
+<p align="center">
+  <a href="mailto:joan.betancur1@udea.edu.co"><img src="https://img.shields.io/badge/Email-joan.betancur1%40udea.edu.co-blue?style=flat-square&logo=gmail" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Joan_Betancur-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+</p>
 
 ---
 
-## █║▌Áreas de interés técnico
+### 👤 Sobre mí
 
-- **Radio Definida por Software (SDR)** · Análisis de espectro · Receptores ADS-B/NOAA
-- **Seguridad en redes** · Firewalls (Fortinet NSE 1-3) · Arquitectura zero trust
-- **Protocolos y arquitectura** · TCP/IP, 5G core · Simulación de colas y congestión
-- **Linux y automatización** · Bash, Python para networking · Wireshark
+Soy estudiante de **Ingeniería de Telecomunicaciones** en la **Universidad de Antioquia**. Mi enfoque profesional se centra en la seguridad de redes, infraestructura cloud, administración de sistemas Linux y la automatización de redes. 
 
----
+Me apasiona la intersección entre la infraestructura crítica y el impacto social. A través de mi marco de investigación analizo cómo las tecnologías de comunicación moldean las estructuras de poder y la autonomía ciudadana. 
 
-## Certificaciones
-
-- **Fortinet Certified Fundamentals** - Terminado
-- **Fortinet Certified Associate** - Terminado
+> *"El protocolo es política congelada en código. La ecología del estancamiento no se rompe con leyes, se rompe con antenas."*
 
 ---
 
-## Escritura y pensamiento crítico
+### 💻 Stack Técnico & Herramientas
 
-- **"Colombia: La Patria Boba Perpetua"** · Ensayo sobre desorden como lenguaje del sistema · *Revista Universidad de Antioquia* (en revisión)
-- **"La ecología del estancamiento"** · Concepto propio sobre sistemas que se benefician del desorden · *En preparación para Anfibia/Pléyade*
-- Serie de ensayos: *Lenguaje del estancamiento* · *Memoria del estancamiento*
-
-> *"El protocolo es política congelada en código."*
-
----
-
-## Contacto
-
-📫 joan.betancur1@udea.edu.co  
+#### 🔒 Ciberseguridad & Redes
+- **Firewalls & Arquitectura:** Fortinet (FCF, FCA), Zero Trust Architecture.
+- **Protocolos & Análisis:** TCP/IP, 5G Core, Wireshark, Análisis de espectro, Simulación de congestión.
+- **SDR (Radio Definida por Software):** Receptores ADS-B, captura de satélites NOAA, análisis de señales.
 
 ---
 
-*"La ecología del estancamiento no se rompe con leyes, se rompe con antenas."*
+### 🎓 Certificaciones Oficiales
+
+- **Fortinet Certified Fundamentals (FCF)** 🏅
+- **Fortinet Certified Associate (FCA)** 🏅
+
+---
+
+### ✍️ Escritura & Pensamiento Crítico
+
+Además del código, investigo y escribo sobre cómo los sistemas complejos se benefician del desorden:
+
+*   **"Colombia: La Patria Boba Perpetua"** | *Ensayo sobre el desorden como lenguaje del sistema* (En revisión - Revista Universidad de Antioquia).
+*   **"La Ecología del Estancamiento"** | *Concepto propio sobre sistemas que se retroalimentan del caos* (En preparación).
+*   **Serie de Ensayos:** *Lenguaje del estancamiento* · *Memoria del estancamiento*.
