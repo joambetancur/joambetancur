@@ -16,7 +16,7 @@ Soy estudiante de **Ingeniería de Telecomunicaciones** en la **Universidad de A
 
 Me apasiona la intersección entre la infraestructura crítica y el impacto social. A través de mi marco de investigación analizo cómo las tecnologías de comunicación moldean las estructuras de poder y la autonomía ciudadana. 
 
-> *"El protocolo es política congelada en código. La ecología del estancamiento no se rompe con leyes, se rompe con antenas."*
+> *"El protocolo es política congelada en código."*
 
 ---
 
