@@ -23,16 +23,29 @@ Me apasiona la intersección entre la infraestructura crítica y el impacto soci
 ### 💻 Stack Técnico & Herramientas
 
 #### 🔒 Ciberseguridad & Redes
-- **Firewalls & Arquitectura:** Fortinet (FCF, FCA), Zero Trust Architecture.
-- **Protocolos & Análisis:** TCP/IP, 5G Core, Wireshark, Análisis de espectro, Simulación de congestión.
-- **SDR (Radio Definida por Software):** Receptores ADS-B, captura de satélites NOAA, análisis de señales.
+- **Perímetro & Arquitectura:** Fortinet (FCF, FCA), NGFW, Zero Trust Network Access (ZTNA), VPNs (IPsec/SSL).
+- **Análisis & Defensa:** Análisis de tráfico (Wireshark), endurecimiento de infraestructura (Hardening) y mitigación de vectores de ataque.
+- **Protocolos:** Suite TCP/IP, enrutamiento estático/dinámico, DNS, DHCP, TLS/SSL.
+
+#### 🐧 Linux & Administración de Sistemas
+- **Entornos:** Administración y optimización de servidores Linux (Ubuntu Server, Debian).
+- **Gestión del Sistema:** Configuración de servicios de red, automatización de tareas mediante Bash Scripting y gestión de permisos/usuarios.
+- **Diagnóstico:** Monitoreo de recursos, logs del sistema y solución de problemas en red local (troubleshooting).
+
+#### ☁️ Cloud & Automatización (En Progreso / Fundamentos)
+- **Contenedores:** Virtualización ligera y despliegue de servicios aislados con Docker.
+- **Orquestación & IaC:** Fundamentos de Infraestructura como Código (Terraform) y automatización de redes.
+- **Cloud Providers:** Gestión básica de servicios e infraestructura en la nube.
 
 ---
 
-### 🎓 Certificaciones Oficiales
+#### 🎓 Certificaciones Oficiales
 
-- **Fortinet Certified Fundamentals (FCF)** 🏅
-- **Fortinet Certified Associate (FCA)** 🏅
+* **Fortinet Certified Fundamentals (FCF)** 🏅
+  [![Fortinet FCF](https://images.credly.com/images/31201946-b302-4ef8-bc23-ecda4b0ed161/image.png)](https://www.credly.com/earner/earned/badge/46609be2-754b-4a21-83c4-8a82e4be8e5e)
+
+* **Fortinet Certified Associate (FCA)** 🏅
+  [![Fortinet FCA](https://images.credly.com/images/a5e0b686-2586-4ef5-b6d3-2f07d30777e0/image.png)](PEGA_AQUÍ_EL_LINK_DE_TU_BADGE_FCA)
 
 ---
 
