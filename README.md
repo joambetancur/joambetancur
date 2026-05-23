@@ -41,12 +41,11 @@ Me apasiona la intersección entre la infraestructura crítica y el impacto soci
 
 #### 🎓 Certificaciones Oficiales
 
-<a href="https://www.credly.com/users/joan-betancur" target="_blank" style="text-decoration: none; margin-right: 15px;">
-  <img src="https://images.credly.com/images/31201946-b302-4ef8-bc23-ecda4b0ed161/image.png" width="115" alt="Fortinet Certified Fundamentals (FCF)" title="Verificar Fortinet FCF">
-</a>
-<a href="https://www.credly.com/users/joan-betancur" target="_blank" style="text-decoration: none;">
-  <img src="https://images.credly.com/images/a5e0b686-2586-4ef5-b6d3-2f07d30777e0/image.png" width="115" alt="Fortinet Certified Associate (FCA)" title="Verificar Fortinet FCA">
-</a>
+### 🎓 Certificaciones Oficiales
+
+[![Fortinet FCF](https://images.credly.com/images/31201946-b302-4ef8-bc23-ecda4b0ed161/image.png)](https://www.credly.com/users/joan-betancur) &nbsp;&nbsp;&nbsp;&nbsp; [![Fortinet FCA](https://images.credly.com/images/a5e0b686-2586-4ef5-b6d3-2f07d30777e0/image.png)](https://www.credly.com/users/joan-betancur)
+
+*_Haz clic en las insignias para verificar las certificaciones en mi perfil oficial de Credly._*
 
 <br>
 
