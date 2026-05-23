@@ -41,7 +41,7 @@ Me apasiona la intersección entre la infraestructura crítica y el impacto soci
 
 #### 🎓 Certificaciones Oficiales
 
-Fortinet Certified Fundamentals (FCF) - Finalizado
+Fortinet Certified Fundamentals (FCF) - Finalizado /br
 Fortinet Certified Associate (FCA) - Finalizado
 
 ---
